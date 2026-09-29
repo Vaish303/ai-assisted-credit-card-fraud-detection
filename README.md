@@ -107,4 +107,3 @@ SQL (SQLite), Microsoft Excel, Power BI (DAX), and an LLM for rule-design assist
 - `analysis_queries.sql` — all three SQL analysis queries
 - `fraud_detection_dashboard.pbix` — the Power BI file
 - `dashboard.png` — dashboard screenshot
-- `dashboard.pdf` — exported PDF version
