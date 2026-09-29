@@ -2,7 +2,8 @@
 
 An end-to-end analytics project that cleans, analyzes, and visualizes credit card transaction data to detect fraud patterns — using an AI-assisted, rule-based risk-scoring system instead of a black-box model.
 
-![Dashboard Screenshot](dashboard.png)
+<img width="2418" height="1356" alt="dashboard photo" src="https://github.com/user-attachments/assets/d41a4685-8fa5-4271-9c6b-6207637cd55a" />
+
 
 ## Problem Statement
 
